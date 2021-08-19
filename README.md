@@ -22,3 +22,5 @@
 - #### After that program will print coded string
 ![image](https://user-images.githubusercontent.com/71986167/130026619-2f2d4b7e-6f2b-4e88-bdcb-d474d9c2b30f.png)
 
+## Future of the project
+- #### The encryption algorithm can be made more complex
